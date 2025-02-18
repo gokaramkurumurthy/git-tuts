@@ -1,0 +1,39 @@
+1. Setup & Initialization
+
+git init – Initialize a new Git repository.
+git clone <repo_url> – Clone an existing repository.
+
+2. Working with Files
+
+git status – Check the status of your working directory.
+git add . – Stage all changes for commit.
+git commit -m "Your message" – Commit changes with a message.
+git log – View commit history.
+
+3. Branching & Merging
+
+git branch <branch_name> – Create a new branch.
+git checkout <branch_name> – Switch to a branch.
+git merge <branch_name> – Merge a branch into the current one.
+
+4. Working with Remote Repositories
+
+git remote add origin <repo_url> – Link your local repo to a remote one.
+git push origin <branch_name> – Push changes to a remote repo.
+git pull origin <branch_name> – Fetch and merge changes from a remote repo.
+
+5. Undoing Changes
+
+git reset --hard <commit_id> – Reset to a previous commit (deletes changes).
+git revert <commit_id> – Undo a commit without losing history.
+
+6. Stashing (Temporary Save)
+
+git stash – Save uncommitted changes temporarily.
+git stash pop – Reapply stashed changes.
+
+
+git init – Initialize a new Git repository.
+git status – Check the status of your working directory.
+git add . – Stage all changes for commit.
+git commit -m " your message" - commit changes with a message.
