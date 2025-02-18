@@ -36,3 +36,4 @@ git stash pop – Reapply stashed changes.
 git init – Initialize a new Git repository.
 git status – Check the status of your working directory.
 git add . – Stage all changes for commit.
+git commit -m " your message" - commit changes with a message.
