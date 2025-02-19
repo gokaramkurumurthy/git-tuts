@@ -5,3 +5,6 @@
 5. git remote add origin https://github.com/Abhishek-0703/first.git
 6. git pull origin master
 7.git push origin master
+
+
+git clone link
